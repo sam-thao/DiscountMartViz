@@ -11,7 +11,7 @@ The owner assumes that most customers buy 2 or more products per basket/order bu
 
 --
 
-I created a dashboard to highlight the the sales per year, sales by category, quantity of products sold, and sales per location. 
+I've developed a dashboard that showcases yearly sales, sales categorized by type, product quantity sold, and location-based sales data.
 
 
 # Discount Mart Dashboard
